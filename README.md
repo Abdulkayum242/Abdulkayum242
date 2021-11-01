@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulkayum242
+- 👋 Hi, I’m Kayum Shaikh
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Machine learning and Deep Learning
 - 💞️ I’m looking to collaborate on ML and DL projects 
